@@ -1,8 +1,6 @@
 /**
 Implementação controlada pelo GIt
-Alunos:
-    Fagner de oliveira Bernardo 14.2.4155
-    Natália Monferrari Sol 14.2.4335
+
 */
 
 /*
